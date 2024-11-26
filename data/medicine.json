@@ -1,0 +1,254 @@
+{
+  "status": "success",
+  "statusCode": "200",
+  "message": "Data retrieved successfully",
+  "data": {
+    "medcine": [
+      {
+        "id": "1",
+        "main_category": "medicine",
+        "medcine_name": "Dolo Paracetamol 650mg Strip Of 15 Tablets",
+        "medcine_image": "https://res.cloudinary.com/decttwtov/image/upload/v1726803486/dolo-650-paracetamol-tablets_hpq6xa.jpg",
+        "brand_name": "By MICRO LABS",
+        "strip_quantity": "15",
+        "old_price": "10",
+        "new_price": "20",
+        "offer": "12",
+        "description_title": "Dolo 650 MG Description",
+        "description_content": "Dolo 650 tablet is used to treat pain, fever, headaches, toothaches, migraines, body aches, and fever. It contains paracetamol, which inhibits the formation of certain chemicals that cause pain and fever in the body. Side effects of Dolo 650 are rare. Some individuals may experience temporary stomach discomfort, nausea, or vomiting. If any of these side effects persist or become worse, consult your doctor. Dolo 650 dosage and duration may vary depending on the condition and symptoms. Do not take more than four tablets in 24 hours, and avoid giving them to children under 12. Stop taking the medication once the fever and pain subside. Do not take it if you are allergic to paracetamol or any components of Dolo 650. Consult a doctor before using it for an extended period. Other medicines such as Crocin 650mg Advance, Lanol Er 650mg, P 650mg, and Dolopar 650mg also contain paracetamol as their active ingredient.",
+        "product_summary": [
+          {
+            "offer_price": "Offer Price"
+          }
+        ],
+        "medicine_uses": [
+          {
+            "title": "Uses of Dolo 650 MG",
+            "description": "Dolo 650 tablets relieve pain and fever. It is used to treat headaches, muscle aches, toothaches, and fevers. Dolo 650 also helps with pain and inflammation from conditions like arthritis, spondylitis, and sports injuries.",
+            "main_effects": ""
+          }
+        ],
+        "medicine_side_effects": [
+          {
+            "title": "Side effects of Dolo 650 MG",
+            "description": "Chances of developing side effects with the Dolo 650 are rare if taken within the recommended doses. However, in rare cases, you may experience",
+            "main_effects": [
+              "Skin rash",
+              "Itching",
+              "Blisters",
+              "Allergic reaction"
+            ]
+          }
+        ],
+        "directions_of_use": "Take the Dolo 650 tablet as a whole with a glass of water or as directed by your doctor. Do not consume more than that recommended by your doctor.",
+        "frequently_asked_questions": [
+          {
+            "id": "1",
+            "question": "What happens if I take 2 Dolo 650 tablets?",
+            "answer": "As with any medication, Dolo 650 must be taken exactly as prescribed. Daily intake should not exceed 4000 mg. The most common side effects at high doses are liver damage and severe epidermal necrosis. If you have liver or kidney disease, heart problems, or stomach ulcers, exercise extreme caution."
+          }
+        ]
+      },
+      {
+        "id": "2",
+        "main_category": "medicine",
+        "medcine_name": "Crocin 500mg Strip Of 10 Tablets",
+        "medcine_image": "https://res.cloudinary.com/decttwtov/image/upload/v1726803527/cro0023_cntkiu.jpg",
+        "brand_name": "By GlaxoSmithKline",
+        "strip_quantity": "10",
+        "old_price": "12",
+        "new_price": "22",
+        "offer": "10",
+        "description_title": "Crocin 500 MG Description",
+        "description_content": "Crocin 500mg is used for treating mild to moderate pain, fever, and body aches. It contains paracetamol, which works by blocking pain signals and reducing fever. Side effects are rare, but some may experience nausea, vomiting, or mild rash. Consult your doctor before use, especially if you have liver issues.",
+        "product_summary": [
+          {
+            "offer_price": "Offer Price"
+          }
+        ],
+        "medicine_uses": [
+          {
+            "title": "Uses of Crocin 500 MG",
+            "description": "Crocin 500mg is used to relieve headaches, toothaches, muscle pain, and fever. It is effective for mild pain relief."
+          }
+        ],
+        "medicine_side_effects": [
+          {
+            "title": "Side effects of Crocin 500 MG",
+            "description": "Rare side effects include -",
+            "main_effects": ["Skin rash", "Nausea", "Vomiting"]
+          }
+        ],
+        "directions_of_use": "Take the Crocin 500 tablet as a whole with water. Do not exceed the recommended dosage.",
+        "frequently_asked_questions": [
+          {
+            "id": "1",
+            "question": "Can I take Crocin 500 with other painkillers?",
+            "answer": "Consult a doctor before taking Crocin 500 with other painkillers, as combining medications can increase the risk of side effects."
+          }
+        ]
+      },
+      {
+        "id": "3",
+        "main_category": "medicine",
+        "medcine_name": "Aspirin 75mg Strip Of 14 Tablets",
+        "medcine_image": "https://res.cloudinary.com/decttwtov/image/upload/v1726803486/dolo-650-paracetamol-tablets_hpq6xa.jpg",
+        "brand_name": "By Bayer",
+        "strip_quantity": "14",
+        "old_price": "15",
+        "new_price": "30",
+        "offer": "10",
+        "description_title": "Aspirin 75 MG Description",
+        "description_content": "Aspirin 75mg is used as a blood thinner and pain reliever. It helps prevent blood clots and reduces the risk of heart attacks. Common side effects include nausea, indigestion, or stomach pain.",
+        "product_summary": [
+          {
+            "offer_price": "Offer Price"
+          }
+        ],
+        "medicine_uses": [
+          {
+            "title": "Uses of Aspirin 75 MG",
+            "description": "Aspirin 75mg is used to reduce pain, inflammation, and to prevent blood clots. It is prescribed for patients with heart disease."
+          }
+        ],
+        "medicine_side_effects": [
+          {
+            "title": "Side effects of Aspirin 75 MG",
+            "description": "Common side effects include -",
+            "main_effects": [
+              "Indigestion",
+              "Nausea",
+              "Stomach pain",
+              "Bleeding tendencies"
+            ]
+          }
+        ],
+        "directions_of_use": "Take the Aspirin 75mg tablet as advised by your doctor, preferably after meals.",
+        "frequently_asked_questions": [
+          {
+            "id": "1",
+            "question": "Can I take Aspirin 75mg daily?",
+            "answer": "Aspirin 75mg is often prescribed for long-term use in low doses for preventing blood clots. Follow your doctor's instructions regarding daily use."
+          }
+        ]
+      },
+      {
+        "id": "4",
+        "main_category": "medicine",
+        "medcine_name": "Ibuprofen 400mg Strip Of 20 Tablets",
+        "medcine_image": "https://res.cloudinary.com/decttwtov/image/upload/v1726803486/dolo-650-paracetamol-tablets_hpq6xa.jpg",
+        "brand_name": "By Cipla",
+        "strip_quantity": "20",
+        "old_price": "25",
+        "new_price": "35",
+        "offer": "8",
+        "description_title": "Ibuprofen 400 MG Description",
+        "description_content": "Ibuprofen 400mg is used to relieve pain, inflammation, and fever. It works by blocking chemicals that cause pain and swelling. Common side effects include stomach discomfort, nausea, and dizziness.",
+        "product_summary": [
+          {
+            "offer_price": "Offer Price"
+          }
+        ],
+        "medicine_uses": [
+          {
+            "title": "Uses of Ibuprofen 400 MG",
+            "description": "Ibuprofen 400mg is used to treat pain from headaches, arthritis, muscle injuries, and fever."
+          }
+        ],
+        "medicine_side_effects": [
+          {
+            "title": "Side effects of Ibuprofen 400 MG",
+            "description": "Common side effects include -",
+            "main_effects": ["Stomach pain", "Nausea", "Dizziness"]
+          }
+        ],
+        "directions_of_use": "Take the Ibuprofen 400mg tablet with food to prevent stomach upset. Follow the dosage prescribed by your doctor.",
+        "frequently_asked_questions": [
+          {
+            "id": "1",
+            "question": "Can I take Ibuprofen 400mg with paracetamol?",
+            "answer": "Yes, Ibuprofen and Paracetamol can be taken together, but ensure you follow the recommended doses for each."
+          }
+        ]
+      },
+      {
+        "id": "5",
+        "main_category": "medicine",
+        "medcine_name": "Pantoprazole 40mg Strip Of 14 Tablets",
+        "medcine_image": "https://res.cloudinary.com/decttwtov/image/upload/v1726803486/dolo-650-paracetamol-tablets_hpq6xa.jpg",
+        "brand_name": "By Sun Pharma",
+        "strip_quantity": "14",
+        "old_price": "20",
+        "new_price": "40",
+        "offer": "12",
+        "description_title": "Pantoprazole 40 MG Description",
+        "description_content": "Pantoprazole 40mg is used to treat acid reflux, heartburn, and stomach ulcers. It reduces the amount of acid produced in the stomach. Side effects may include headache, nausea, and diarrhea.",
+        "product_summary": [
+          {
+            "offer_price": "Offer Price"
+          }
+        ],
+        "medicine_uses": [
+          {
+            "title": "Uses of Pantoprazole 40 MG",
+            "description": "Pantoprazole 40mg is used to treat conditions caused by excess stomach acid, such as GERD, acid reflux, and ulcers."
+          }
+        ],
+        "medicine_side_effects": [
+          {
+            "title": "Side effects of Pantoprazole 40 MG",
+            "description": "Possible side effects include -",
+            "main_effects": ["Headache", "Nausea", "Diarrhea", "Abdominal pain"]
+          }
+        ],
+        "directions_of_use": "Take Pantoprazole 40mg tablet before meals as directed by your doctor. Swallow the tablet whole with water.",
+        "frequently_asked_questions": [
+          {
+            "id": "1",
+            "question": "Can Pantoprazole 40mg be taken daily?",
+            "answer": "Pantoprazole 40mg can be taken daily to treat conditions like GERD or acid reflux, but only under the supervision of a doctor. Long-term use should be monitored."
+          }
+        ]
+      },
+      {
+        "id": "6",
+        "main_category": "medicine",
+        "medcine_name": "Metformin 500mg Strip Of 10 Tablets",
+        "medcine_image": "https://res.cloudinary.com/decttwtov/image/upload/v1726803486/dolo-650-paracetamol-tablets_hpq6xa.jpg",
+        "brand_name": "By Torrent Pharma",
+        "strip_quantity": "10",
+        "old_price": "18",
+        "new_price": "28",
+        "offer": "15",
+        "description_title": "Metformin 500 MG Description",
+        "description_content": "Metformin 500mg is used to manage blood sugar levels in individuals with type 2 diabetes. It works by reducing the amount of sugar the liver produces and improving the body’s response to insulin. Common side effects include nausea, stomach pain, and diarrhea.",
+        "product_summary": [
+          {
+            "offer_price": "Offer Price"
+          }
+        ],
+        "medicine_uses": [
+          {
+            "title": "Uses of Metformin 500 MG",
+            "description": "Metformin 500mg is prescribed for individuals with type 2 diabetes to help control blood sugar levels."
+          }
+        ],
+        "medicine_side_effects": [
+          {
+            "title": "Side effects of Metformin 500 MG",
+            "description": "Common side effects include -",
+            "main_effects": ["Nausea", "Stomach upset", "Diarrhea"]
+          }
+        ],
+        "directions_of_use": "Take the Metformin 500mg tablet with meals to reduce stomach upset. Follow the dosage prescribed by your doctor.",
+        "frequently_asked_questions": [
+          {
+            "id": "1",
+            "question": "Can Metformin 500mg cause weight loss?",
+            "answer": "Metformin can lead to modest weight loss in some individuals, but it is primarily prescribed to manage blood sugar levels in diabetes."
+          }
+        ]
+      }
+    ]
+  }
+}

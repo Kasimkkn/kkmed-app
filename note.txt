@@ -1,0 +1,5 @@
+- Collecting order and rder details data and integrating respective UI
+- Category 
+  - Medicine 
+  - Healthcare
+Collecting  

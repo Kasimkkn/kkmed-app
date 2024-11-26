@@ -1,0 +1,16 @@
+export type IoniconsIconName =
+  | 'home'
+  | 'home-outline'
+  | 'cloud-upload'
+  | 'cloud-upload-outline'
+  | 'cube'
+  | 'cube-outline'
+  | 'person-circle'
+  | 'person-circle-outline'
+  | 'person-sharp'
+  | 'search'
+  | 'repeat'
+  | 'link'
+  | 'at'
+  | 'push'
+  | 'more';
